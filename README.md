@@ -1,4 +1,5 @@
 Paper Title: Cost-Effective Acquisition of First-Party Data for Business Analytics
+
 INFORMS Journal on Computing
 
 A. Data files are included in the same folder along with the relevant code files.
@@ -9,10 +10,15 @@ B.1. Our programs are written in R and run in RStudio.
 RStudio must be installed in order to run our programs.
 
 B.2. Also, install the following R packages before running our programs:
+
 nloptr
+
 dplyr
+
 rpart
+
 openxlsx2
+
 reshape2
 
 C. Instructions to run our programs and reproduce the results in the paper:
