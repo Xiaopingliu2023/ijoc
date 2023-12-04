@@ -52,5 +52,5 @@ Friday_DA_05.R (which outputs an Excel file with the results for Figure 3)
 
 Friday_DA_10.R (which outputs an Excel file with the results for Figure 4)
 
-more info please check
+For more updated info, please check
 https://github.com/Xiaopingliu2023/ijoc
