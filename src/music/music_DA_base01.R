@@ -155,18 +155,6 @@ res_x <- nloptr(
   eval_g_ineq = eval_g_ineq,
   eval_g_eq = eval_g_eq,
   opts = opts )
-#print(res_x)
-
-##
-
-#eval_fx(x0)
-
-#eval_fx(res_x$solution)
-#x<-c(12.84456-4, 8.931567, 9.849517, 64.0395, 52.14351, 52.17733+4)
-#eval_fx(x)
-#eval_g_ineq(x)
-#eval_g_ineq(res_x$solution)
-#eval_g_eq(res_x$solution)
 
 
 
@@ -179,7 +167,7 @@ res_w <- nloptr(
   eval_g_ineq = eval_g_ineq,
   eval_g_eq = eval_g_eq,
   opts = opts )
-#print(res_w)
+
 
 
 
