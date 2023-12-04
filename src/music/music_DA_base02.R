@@ -101,7 +101,7 @@ RMSE<-function(sx,sy){
   #r2<-r10/2+1
   return (r1)
 }
-RMSE(sx,sy)
+#RMSE(sx,sy)
 totalMCE<-0
 MCE0<-function(sx,sy){
 
