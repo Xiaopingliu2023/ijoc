@@ -26,18 +26,28 @@ C. Instructions to run our programs and reproduce the results in the paper:
 C.1. To reproduce the results in Figures 1 and 2 in the paper:
 
 Open the folder named ‘music’ and run the R files in the following order:
+
 music_DA_base01.R
+
 music_DA_base02.R
+
 music_DA_base03.R
+
 music_DA_05.R (which outputs an Excel file with the results for Figure 1)
+
 music_DA_10.R (which outputs an Excel file with the results for Figure 2)
 
 
 C.2. To reproduce the results in Figures 3 and 4 in the paper:
 
 Open the folder named ‘blackfriday’ and run the R files in the following order:
+
 Friday_DA_base01.R
+
 Friday_DA_base02.R
+
 Friday_DA_base03.R
+
 Friday_DA_05.R (which outputs an Excel file with the results for Figure 3)
+
 Friday_DA_10.R (which outputs an Excel file with the results for Figure 4)
